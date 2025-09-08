@@ -1,0 +1,23 @@
+{
+  "name": "telos-frontend-0925",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss  -i ./demo5/input.css -o ./demo5/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duyen1512/telos-frontend-0925.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duyen1512/telos-frontend-0925/issues"
+  },
+  "homepage": "https://github.com/Duyen1512/telos-frontend-0925#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
